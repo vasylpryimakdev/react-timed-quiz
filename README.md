@@ -62,7 +62,7 @@ _Final results screen with performance breakdown_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/vasylpryimakdev/react-quiz.git
+   git clone https://github.com/vasylpryimakdev/react-timed-quiz.git
    cd react-quiz
    ```
 
